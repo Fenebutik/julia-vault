@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Даня.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Даня"
-            }
-          },
-          {
-            "id": "deec8a062d24b817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
+                "file": "Keeper of the кухня.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Keeper of the кухня"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Keeper of the кухня.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для Keeper of the кухня"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Keeper of the кухня.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки из Keeper of the кухня"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
+                "file": "Keeper of the кухня.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Keeper of the кухня"
             }
           }
         ]
@@ -199,11 +184,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "deec8a062d24b817",
+  "active": "c853509a008ab78c",
   "lastOpenFiles": [
-    "z.md",
-    "Без названия.md",
     "Даня.md",
+    "Без названия.md",
+    "Keeper of the кухня.md",
+    "z.md",
     "README.md"
   ]
 }
