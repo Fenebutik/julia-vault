@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Даня"
             }
+          },
+          {
+            "id": "deec8a062d24b817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Даня.md",
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Даня"
+              "title": "Обратные ссылки для Без названия"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Даня.md",
+                "file": "Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Даня"
+              "title": "Исходящие ссылки из Без названия"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Даня.md",
+                "file": "Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Даня"
+              "title": "Структура Без названия"
             }
           }
         ]
@@ -184,9 +199,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c853509a008ab78c",
+  "active": "deec8a062d24b817",
   "lastOpenFiles": [
-    "README.md",
-    "Даня.md"
+    "z.md",
+    "Без названия.md",
+    "Даня.md",
+    "README.md"
   ]
 }
